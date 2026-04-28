@@ -1,0 +1,13 @@
+{
+  "name": "LaserZone: Arena Clash",
+  "description": "A massive multiplayer first-person laser tag game with futuristic arenas, power-ups, and real-time competitive gameplay.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "multiplayer",
+    "3d_graphics",
+    "real_time_sync"
+  ]
+}
